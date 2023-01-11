@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fingineering
 - 👀 I’m interested in data and financial engineering
-- 🌱 I’m currently learning swift
+- 🌱 I’m currently learning dart and flutter
 - 💞️ I’m looking to collaborate on data engineering
 - 📫 How to reach me hello@fingineering.net
 
