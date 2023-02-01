@@ -1,6 +1,6 @@
 # ⚙️ Fingineering
 
-`Digital Craftsman (Frontend/Backend/Management)`
+`Digital Craftsman (Frontend/Backend/Intelligence)`
 
 👋 Hi, I’m @fingineering
 
