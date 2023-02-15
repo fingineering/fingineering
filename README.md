@@ -21,4 +21,4 @@ fingineering/fingineering is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 ;Walk%20you%20to%20the%20cloud;10%2B%15years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&color=0E93E0
 --->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fingineering&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fingineering&layout=compact&center=true)](https://github.com/anuraghazra/github-readme-stats)
