@@ -2,7 +2,7 @@
 
 `Digital Craftsman (Frontend/Backend/Intelligence)`
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full-stack+data+engineer+and+analyst;Walk+you+to+the+clouds;&width=600&center=true)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full-stack+data+engineer+and+analyst;Walk+you+to+the+clouds;Always+learning+new+things;&color=0E93E0&width=600&center=true)](https://git.io/typing-svg)
 
 
 
