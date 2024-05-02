@@ -32,6 +32,7 @@ You can click the Preview link to take a look at your changes.
     <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" width=40 height=40 alt="Azure">&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" width=40 height=40 alt="Docker">&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" width=40 height=40 alt="Drat">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" width=40 height=40 alt="Drat">
 </p>
 
 
